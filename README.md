@@ -49,3 +49,13 @@ Kodinganya seperti ini
 Tampilan website nya akan seperti ini
 
 ![ss 9](img/ss4-3.png)
+
+### Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector.
+kodingannya seperti ini
+
+![ss 10](img/ss5-1.png)
+
+Tampilan website nya akan seperti ini
+
+![ss 11](img/ss5-2.png)
