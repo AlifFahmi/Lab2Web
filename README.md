@@ -22,3 +22,13 @@ kodinganya seperti ini
 Tampilan website nya akan seperti ini
 
 ![ss 4](img/ss2-2.png)
+
+### Menambahkan inline CSS
+Kemudian tambahkan deklarasi inline CSS pada tag `<p>`
+Kodinganya seperti ini
+
+![ss 5](img/ss3-1.png)
+
+Tampilan website nya akan seperti ini
+
+![ss 6](img/ss3-2.png)
