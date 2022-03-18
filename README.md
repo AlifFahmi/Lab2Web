@@ -32,3 +32,20 @@ Kodinganya seperti ini
 Tampilan website nya akan seperti ini
 
 ![ss 6](img/ss3-2.png)
+
+### Menambahkan CSS Eksternal
+Langkah awal buat deklarasi terlebih dahulu, contoh kodinganya seperti ini
+
+![ss 7](img/ss4-1.png)
+
+Kemudian save file css eksternal berikut di dalam folder yang sama
+
+Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
+
+Kodinganya seperti ini
+
+![ss 8](img/ss4-2.png)
+
+Tampilan website nya akan seperti ini
+
+![ss 9](img/ss4-3.png)
