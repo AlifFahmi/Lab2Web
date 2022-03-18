@@ -13,3 +13,12 @@ Tampilan website nya seperti ini
 
 ![ss 2](img/ss1-2.png)
 
+### Menambahkan deklarasi CSS Internal
+Langkah selanjutnya menambahkan deklarasi css internal, tambahkan pada bagian head
+kodinganya seperti ini
+
+![ss 3](img/ss2-1.png)
+
+Tampilan website nya akan seperti ini
+
+![ss 4](img/ss2-2.png)
