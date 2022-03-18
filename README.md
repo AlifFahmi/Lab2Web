@@ -3,7 +3,7 @@ Latihan_2 16-3-2022
 
 ## Belajar CSS Internal dan Inline CSS
 
-### Membuat Contoh website html
+### Membuat dokumen html
 Langkah pertama membuat contoh web html terlebih dahulu
 kodinganya seperti ini
 
